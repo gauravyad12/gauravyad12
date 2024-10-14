@@ -35,5 +35,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravyad12&" alt="gauravyad12" /></p>
 
-## 📊 GitHub Analytics
-![GitHub Stats](https://camo.githubusercontent.com/1bd8cd3c476a184a65d70c73b5f8da235a73f716147107fb4e520bcf1e430a3d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6761757261767961643132266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)
