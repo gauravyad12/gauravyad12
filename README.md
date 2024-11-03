@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm   Gaurav kumar yadav (FlyingDarkDev & DarkDev)</h1>
-<h3 align="center">3D Web Developer from Utterpardesh living his best life in India [🇮🇳](https://youtube.com/)</h3>
+<h3 align="center">3D Web Developer from Utterpardesh living his best life in India 🇮🇳 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravyad12&label=Profile%20views&color=0e75b6&style=flat" alt="gauravyad12" /> </p>
 
