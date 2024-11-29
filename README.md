@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://instagram.com/youhaveme064" target="blank"><img src="https://img.shields.io/twitter/follow/DarkDev?logo=twitter&style=for-the-badge" alt="Gaurav kumar yadav" /></a> </p>
 
-- 🔭 I’m currently working on [my YouTube content](https://youtube.com/)
+- 🔭 I’m currently working on [my YouTube content](https://www.youtube.com/@Flyingdarkdev)
 
 - 🌱 I’m currently learning **Blender, ThreeJs, Next.js, ...**
 
